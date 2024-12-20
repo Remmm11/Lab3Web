@@ -1,0 +1,46 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+} 
+ 
+header { 
+    background-color: #87CEFA; 
+    padding: 20px; 
+} 
+ 
+nav ul { 
+    list-style-type: none; 
+    padding: 0; 
+} 
+ 
+nav ul li { 
+    display: inline; 
+    margin-right: 15px; 
+} 
+ 
+.float-img { 
+    float: right; 
+    margin-left: 15px; 
+    width: 200px; 
+} 
+ 
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+} 
+ 
+table, th, td { 
+    border: 1px solid black; 
+} 
+ 
+th, td { 
+    padding: 8px; 
+    text-align: left; 
+} 
+ 
+footer { 
+    background-color: #6495ED; 
+    padding: 10px; 
+    text-align: center; 
+} 
